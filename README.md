@@ -1,2 +1,2 @@
 # CSE360_Assignment1
-By: Andrew Fishburn
+By: Andrew Fishburn :)
